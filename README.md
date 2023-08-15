@@ -8,7 +8,7 @@ Oh-my-zsh Theme
 
 You can either clone this repository on your local machine using:
 
-```git clone https://github.com/yarisgutierrez/classyTouch_oh-my-zsh.git ~/.oh-my-zsh/themes```
+```git clone https://github.com/ohorodnichuk17/custom-zsh-prompt```
 
 Or you can download the .zip file directly, extract it and place the juliaohorod.zsh-theme file it in your ~/.oh-my-zsh/themes directory.
 
